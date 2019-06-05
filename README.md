@@ -1,5 +1,5 @@
 # storiesig
-Instagram story/highlight(s) downloader using storiesig.com as an pseudo-API.
+Instagram story/highlight(s) downloader using storiesig.com as a pseudo-API.
 
 ```
 usage: storiesig.py [-h] -u [USER] [-s]
